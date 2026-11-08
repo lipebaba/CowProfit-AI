@@ -40,7 +40,7 @@ A proposta valoriza a detecção precoce, o acompanhamento veterinário e o uso 
 
 O site está hospedado no **GitHub Pages** e pode ser acessado diretamente pelo navegador:
 
-👉 
+👉 [Acessar site CowProfit AI](https://lipebaba.github.io/CowProfit-AI/)
 
 ## 📚 Referência educativa
 
@@ -51,6 +51,3 @@ O conteúdo tem finalidade educativa. O checklist não realiza diagnóstico nem 
 ## 👤 Autor
 
 **Felipe Baba**
-
-[Perfil no GitHub](https://github.com/lipebaba)
-
